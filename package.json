@@ -2,7 +2,7 @@
   "name": "react-app-learn",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://reshetnik-eugenius.github.io/react-app-chigil/",
+  "homepage": "https://reshetnik-eugenius.github.io/react-app-classroom/",
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.4",
     "@testing-library/react": "^13.3.0",
