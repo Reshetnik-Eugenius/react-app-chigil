@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/react-app-chigil/static/css/main.964fdded.css",
+    "main.js": "/react-app-chigil/static/js/main.c8038895.js",
+    "index.html": "/react-app-chigil/index.html",
+    "main.964fdded.css.map": "/react-app-chigil/static/css/main.964fdded.css.map",
+    "main.c8038895.js.map": "/react-app-chigil/static/js/main.c8038895.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.964fdded.css",
+    "static/js/main.c8038895.js"
+  ]
+}
